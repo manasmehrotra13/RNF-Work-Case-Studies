@@ -20,11 +20,10 @@ Newest work first.
 | 2 | [PM Recommendations](02-pm-recommendations.md) | Ranks project managers for each new client, with a fair-share rule |
 | 3 | [Contest Dashboards](03-contest-dashboards.md) | Live TV leaderboards for the Singapore, Dubai and ROW contests, with clear scoring rules |
 | 4 | [Client Analytics Dashboard](04-client-analytics-dashboard.md) | 43 KPIs from Google Analytics, Search Console and LinkedIn outreach |
-| 5 | [SEO Automation](05-seo-automation.md) | AI agents for SEO work: a working first agent and a proposal |
-| 6 | [Video Meet Reconciliation System](06-video-meet-reconciliation-system.md) | Daily call and meeting numbers for 60+ staff from Google Meet, RingCentral and HubSpot |
-| 7 | [Email Marketing Dashboard](07-email-marketing-dashboard.md) | 200,000+ contacts across three regions, with duplicate checks and daily limits |
-| 8 | [Lead Assignment](08-lead-assignment.md) | From fully manual to fully automatic, every day |
-| 9 | [LinkedIn Support Email Analysis](09-linkedin-support-email-analysis.md) | 1,195 support emails read and analysed with Python |
+| 5 | [Video Meet Reconciliation System](05-video-meet-reconciliation-system.md) | Daily call and meeting numbers for 60+ staff from Google Meet, RingCentral and HubSpot |
+| 6 | [Email Marketing Dashboard](06-email-marketing-dashboard.md) | 200,000+ contacts across three regions, with duplicate checks and daily limits |
+| 7 | [Lead Assignment](07-lead-assignment.md) | From fully manual to fully automatic, every day |
+| 8 | [LinkedIn Support Email Analysis](08-linkedin-support-email-analysis.md) | 1,195 support emails read and analysed with Python |
 
 ## Smaller work
 
