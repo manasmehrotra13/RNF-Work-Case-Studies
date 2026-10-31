@@ -29,7 +29,7 @@ It began as the Payment Reconciliation tool, which brought Stripe and PayPal pay
 ## Some of the analysis inside
 - **Retention %** is always the total money received divided by the total money expected, never an average of percentages.
 - **Refunds** in the same month are capped at the payment, so a refund can't take off more than came in.
-- **Sales Pipeline** is a weighted forecast: each stage has its own chance of closing.
+- **Sales Pipeline** is a monthly forecast board: each deal sits in a stage with its own chance of closing.
 - **Sales Scoreboard** places reps in tiers using two targets: money in the bank and conversion.
 - **Process Analysis** follows leads to meetings booked, meetings held and clients won, and shows whose clients are still paying one and two months later.
 
