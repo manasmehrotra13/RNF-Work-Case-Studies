@@ -15,6 +15,13 @@ An automatic process that, for every new lead:
 
 It started as Google Apps Script on a sheet. It now runs inside The Scale Agency Dashboard on a schedule: rest-of-the-world leads in the afternoon and US leads in the evening, India time.
 
+## Screens
+The names and numbers in these pictures are made up.
+
+![Lead Management](images/scale-agency/lead-management.jpeg)
+
+![DT Daily Report](images/scale-agency/dt-daily-report.jpeg)
+
 ## My part
 The logic and the rules are mine. My manager showed me that "anything you do every day can be automated", and I wrote out the exact steps and built the scripts with AI help.
 
