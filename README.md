@@ -4,7 +4,7 @@ I'm Manas Mehrotra, a Data Analyst at **RNF Technologies** in Noida, India (sinc
 
 **Right now** I run and improve The Scale Agency Dashboard and the contest boards.
 
-These pages describe what I built and how it works. **They have no company code, no client or colleague names and no money figures**, because that work belongs to the company. A few pages have screenshots that I have already shared publicly, with the client's name changed.
+These pages describe what I built and how it works. **They have no company code, no client or colleague names and no money figures**, because that work belongs to the company. A few pages have screenshots. Some I had already shared publicly, with the client's name changed. The Scale Agency Dashboard screens use made-up data.
 
 ## How I work
 
