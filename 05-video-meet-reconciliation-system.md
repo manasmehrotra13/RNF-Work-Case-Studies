@@ -18,6 +18,11 @@ It saves everything in a MySQL database, works out the numbers for each person a
 - For each person and day it counts: calls scheduled, calls that happened, no-shows, abandoned and rescheduled calls, total calls, total talk time and the daily average.
 - Internal meetings are separated from client calls by email domain.
 
+## Screen
+The names and numbers in this picture are made up.
+
+![Dialing Report](images/scale-agency/dialing-report.jpeg)
+
 ## My part
 I defined every KPI and the rules behind them (the shift day, what counts as a no-show or an abandoned call, how to match one person across three systems), and I checked the results against the old manual report. The code was written with an AI coding assistant.
 
