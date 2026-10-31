@@ -47,3 +47,100 @@ MySQL 8 · SQL · Node.js, Express and TypeScript · React · Stripe, PayPal, Hu
 
 ## What I learned
 Design the data first. Check every new number against the old system before asking people to trust it. Build alerts, so problems are found before users find them.
+
+## Screens
+Every name, email, website and amount in these pictures is made up. The layout is the real app.
+
+### Money
+
+**Payments**
+
+![Payments](images/scale-agency/payments.jpeg)
+
+**Edit Mapping**
+
+![Edit Mapping](images/scale-agency/edit-mapping.jpeg)
+
+**EOM**
+
+![EOM](images/scale-agency/eom.jpeg)
+
+**Month on Month**
+
+![Month on Month](images/scale-agency/month-on-month.jpeg)
+
+**Refunds**
+
+![Refunds](images/scale-agency/refunds.jpeg)
+
+### Project managers
+
+**Retention Analysis**
+
+![Retention Analysis](images/scale-agency/retention-analysis.jpeg)
+
+**My Inventory**
+
+![My Inventory](images/scale-agency/my-inventory.jpeg)
+
+### Sales
+
+**New Sales**
+
+![New Sales](images/scale-agency/new-sales.jpeg)
+
+**Sales Pipeline**
+
+![Sales Pipeline](images/scale-agency/sales-pipeline.jpeg)
+
+**My Sales**
+
+![My Sales](images/scale-agency/my-sales.jpeg)
+
+**Process Analysis**
+
+![Process Analysis](images/scale-agency/process-analysis.jpeg)
+
+### Leads
+
+**Lead Management**
+
+![Lead Management](images/scale-agency/lead-management.jpeg)
+
+**Team Flora Report**
+
+![Team Flora Report](images/scale-agency/team-flora-report.jpeg)
+
+**DT Daily Report**
+
+![DT Daily Report](images/scale-agency/dt-daily-report.jpeg)
+
+### Calls
+
+**Dialing Report**
+
+![Dialing Report](images/scale-agency/dialing-report.jpeg)
+
+### Admin
+
+**User Management**
+
+![User Management](images/scale-agency/user-management.jpeg)
+
+**Application Logs**
+
+![Application Logs](images/scale-agency/application-logs.jpeg)
+
+**App Alerts**
+
+![App Alerts](images/scale-agency/app-alerts.jpeg)
+
+**Bin**
+
+![Bin](images/scale-agency/bin.jpeg)
+
+### Light theme
+
+**Payments**
+
+![Payments](images/scale-agency/payments-light.jpeg)
