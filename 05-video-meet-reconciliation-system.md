@@ -27,7 +27,7 @@ The names and numbers in this picture are made up.
 I defined every KPI and the rules behind them (the shift day, what counts as a no-show or an abandoned call, how to match one person across three systems), and I checked the results against the old manual report. The code was written with an AI coding assistant.
 
 ## Results
-- Covers **60+ sales and project-management staff**.
+- Covers **40+ sales and project-management staff**.
 - The daily report is automatic and refreshes through the day; the manual report is gone.
 
 ## Tools
